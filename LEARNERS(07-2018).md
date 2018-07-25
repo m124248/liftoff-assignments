@@ -89,6 +89,7 @@
 - Judith L
 - Gary L
 - Rebecca L
+- [Luning, Catherine (@m124248)](https://github.com/m124248/liftoff-assignments.git)
 - Mary M
 - Ther M
 - Jonathan M
